@@ -22,13 +22,17 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="logout.php" class="logo">Logout.</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
+     
+      
+     
+
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -48,7 +52,7 @@
          <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>travel around the world</h3>
+               <h3>travel Freely and Easily</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
